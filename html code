@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="mainimage">
+        <div class="maintext">
+            <span>Tribute Page to the</span>
+            <span>"Last of the stars"</span>
+        </div>
+    </div>
+    <div class="photogallery">
+        <div class="text"><span>Photo gallery</span></div>
+        <div class="images">
+            <div class="imageset">
+                <div class="photo"><img src="images/srk-1.jpg"></div>
+                <div class="photo"><img src="images/srk-6.jpg"></div>
+                <div class="photo"><img src="images/srk-13.jpg"></div>
+                <div class="photo"><img src="images/srk-12.jpg"></div>
+            </div>
+            <div class="imageset">
+                <div class="photo"><img src="images/srk-18.jpg"></div>
+                <div class="photo"><img src="images/srk-8.jpg"></div>
+                <div class="photo"><img src="images/srk-2.jpg"></div>
+                <div class="photo"><img src="images/srk-19.jpg"></div>
+            </div>
+        </div>
+    </div>
+    <div class="mid1">
+        <div id="heading"><span>About SHAH RUK KHAN</span></div>
+        <div class="box">
+            <div class="infobox">
+                <div class="innerinfo">
+                    <h3>Early life and family</h3>
+                    <ul>
+                        <li > <p>Khan's father, Mir Taj Mohammed Khan, was an Indian independence activist from Peshawar who campaigned alongside the Khudai Khidmatgar, a nonviolent resistance movement led by Abdul Ghaffar Khan that sought a united and independent India.</p></li>
+                        <li> <p>Mir was a follower of Abdul Ghaffar Khan, and affiliated with the Indian National Congress. He was also the cousin of the major general in the Indian National Army Shah Nawaz Khan.[d] According to Khan his paternal grandfather, Mir Jan Muhammad Khan, was an ethnic Pashtun (Pathan) from Afghanistan.</p></li>
+                        <li> <p>However, his paternal cousins in Peshawar later clarified that the family speaks Hindko and is originally from Kashmir, from where they settled in Peshawar centuries back, contradicting the claim that his grandfather was a Pashtun from Afghanistan.</p></li>
+                    </ul>
+                </div>
+                <div class="button"><a href="https://en.wikipedia.org/wiki/Shah_Rukh_Khan#Early_life_and_family" style="color:white">Know more</a></div>
+            </div>
+            <div class="infobox">
+                <div class="innerinfo">
+                    <h3>Acting career</h3>
+                    <ul>
+                        <li> <p> Khan's first starring role was in Lekh Tandon's television series Dil Dariya, which began shooting in 1988, but production delays led to the Raj Kumar Kapoor directed 1989 series Fauji becoming his television debut instead.</p> </li>
+                        <li> <p> n the series, which depicted a realistic look at the training of army cadets, he played the leading role of Abhimanyu Rai. This led to further appearances in Aziz Mirza's television series Circus (1989-90) and Mani Kaul's miniseries Idiot (1992). Khan also played minor parts in the serials Umeed (1989) and Wagle Ki Duniya , and in the English-language television film In Which Annie Gives It Those Ones (1989)</p> </li>
+                        <li> <p> His appearances in these serials led critics to compare his look and acting style with those of the film actor Dilip Kumar, but Khan was not interested in film acting at the time, thinking that he was not good enough</p> </li>
+                    </ul>
+                </div>
+                <div class="button">
+                    <a href="https://en.wikipedia.org/wiki/Shah_Rukh_Khan#Acting_career" style="color:white">Know more</a>
+                </div>
+            </div>
+        </div>
+        <div class="box">
+            <div class="infobox">
+                <div class="innerinfo">
+                    <h3>Other works</h3>
+                    <ul>
+                        <li> <p>Khan co-produced three films from 1999 to 2003 as a founding member of the partnership Dreamz Unlimited.[88] After the partnership was dissolved, he and Gauri restructured the company as Red Chillies Entertainment,[115] which includes divisions dealing with film and television production, visual effects, and advertising. </p> </li>
+                        <li> <p>As of 2015, the company has produced or co-produced at least nine films. Either Khan or Gauri are usually given production credits, and he has appeared in most of the films, either in the lead role, or in a guest appearance. Khan was involved in several aspects of the making of Ra.One (2011) </p> </li>
+                        <li> <p>Aside from acting, he produced the film, volunteered to write the console game script, dubbed for it, oversaw its technical development, and wrote the digital comics based on the film's characters.Khan has occasionally done playback singing for his films. In Josh (2000) he sang the popular song "Apun Bola Tu Meri Laila". He also sang in Don (2006) and Jab Tak Hai Jaan (2012) </p> </li>
+                    </ul>
+                </div>
+                <div class="button">
+                    <a href="https://en.wikipedia.org/wiki/Shah_Rukh_Khan#Other_work" style="color:white">Know more</a>
+                </div>
+            </div>
+            <div class="infobox">
+                <div class="innerinfo">
+                    <h3>Awards</h3>
+                    <ul>
+                        <li> <p> Khan is one of the most decorated Bollywood actors. He has received 14 Filmfare Awards from 30 nominations and special awards, including winning eight for Best Actor he is tied for the most in this category with Dilip Kumar.</p> </li>
+                        <li> <p> Khan has won the Filmfare Award for Best Actor for his performances in Baazigar (1993), Dilwale Dulhania Le Jayenge (1995), Dil To Pagal Hai (1997), Kuch Kuch Hota Hai (1998), Devdas (2002), Swades (2004)</p></li>
+                        <li> <p> Although he has never won a National Film Award,he was awarded the Padma Shri by the Government of India in 2005 The Government of France has awarded him both the Order of Arts and Letters (2007), and the fifth degree of the French Legion of Honour, the Chevalier Légion d'honneur (2014). Khan has received five honorary doctorates</p> </li>
+                    </ul>
+                </div>
+                <div class="button">
+                    <a href="https://en.wikipedia.org/wiki/Shah_Rukh_Khan#Awards_and_recognitions" style="color:white">Know more</a>
+                </div>
+            </div>
+        </div>
+        <h3>Popular Movies</h3>
+        <div class="mid2">
+            <div class="contain1">
+                <video src="videos/vid-1.mp4" controls></video>
+                 <video src="videos/vid-2.mp4" controls></video>
+                 <video src="videos/vid-3.mp4" controls></video>
+                 <video src="videos/vid-4.mp4" controls height="500px"></video>
+            </div>
+            <div class="contain2">
+                <div class="movie-text">
+                    <h4>My name is Khan</h4>
+                    <ul>
+                        <li><p>My Name Is Khan (2010) tells the story of Rizwan Khan, a Muslim man with Asperger’s syndrome, who moves to the U.S. and marries Mandira, a Hindu woman with a young son. After the 9/11 attacks, the family faces increasing discrimination, leading to the tragic death of their son, Sameer, in a hate-fueled assault. Mandira blames Rizwan’s religion for their loss and challenges him to prove to the world—and to the President—that he is not a terrorist.</p></li>
+                        <li><p>Rizwan sets out on a cross-country journey, determined to meet the President and convey his message: “My name is Khan, and I am not a terrorist.” Along the way, he encounters people of all backgrounds, spreading kindness and challenging prejudice. Rizwan’s journey becomes a national story, symbolizing resilience and the power of love. In the end, he reunites with Mandira, highlighting the film’s themes of acceptance, humanity, and the rejection of hate.</p></li>
+                    </ul>
+                </div>
+                <div class="movie-text">
+                    <h4>Veer Zara</h4>
+                    <ul>
+                        <li><p>Veer-Zaara (2004) is a Bollywood romantic drama directed by Yash Chopra, starring Shah Rukh Khan as Veer, an Indian Air Force pilot, and Preity Zinta as Zaara, a Pakistani woman from a prominent family. The film explores the transcendent love between Veer and Zaara, who meet when Veer saves her during a pilgrimage to India. Despite their love, societal and familial pressures force them apart, with Veer being wrongfully imprisoned in Pakistan for years to protect Zaara’s honor.</p></li>
+                        <li><p>Years later, a young Pakistani lawyer, Saamiya (played by Rani Mukerji), discovers Veer’s case and seeks justice, uncovering the powerful love story between the star-crossed lovers. The film’s themes of love, sacrifice, and unity across borders are beautifully portrayed, supported by a timeless soundtrack by the late Madan Mohan. Veer-Zaara delivers a heartfelt message on humanity and the power of love beyond cultural and political barriers, making it a memorable and emotional cinematic experience.</p></li>
+                    </ul>
+                </div>
+                <div class="movie-text">
+                    <h4>Jab tak hai Jaan</h4>
+                    <ul>
+                        <li><p>Jab Tak Hai Jaan (2012), directed by Yash Chopra, is a Bollywood romance starring Shah Rukh Khan, Katrina Kaif, and Anushka Sharma. The story follows Samar Anand (Khan), a bomb disposal expert in the Indian Army, who previously lived in London, where he fell deeply in love with Meera (Kaif). Their passionate romance faces an unexpected turn when Meera, bound by a promise to God, leaves Samar to keep him safe after he survives a life-threatening accident.</p></li>
+                        <li><p>Heartbroken, Samar returns to India and becomes fearless in the face of death, taking on the dangerous job of defusing bombs. Years later, Akira (Sharma), a young documentary filmmaker, meets him and becomes fascinated by his story, sparking her own feelings for him. When Samar suffers memory loss and is taken back to London, he and Meera are forced to confront their past. The film is an emotional journey exploring love, destiny, sacrifice, and faith, beautifully complemented by A.R. Rahman’s soulful music. Jab Tak Hai Jaan is a tribute to undying love, marked by Yash Chopra’s signature storytelling style, making it a heartfelt cinematic experience.
+                        </p></li>
+                    </ul>
+                </div>
+                <div class="movie-text">
+                    <h4>Om shanthi Om</h4>
+                    <ul>
+                        <li><p>Om Shanti Om (2007), directed by Farah Khan, is a Bollywood film that blends romance, comedy, and reincarnation drama, starring Shah Rukh Khan and Deepika Padukone in her debut role. The story follows Om Prakash Makhija (Khan), a junior film artist in the 1970s, who falls in love with superstar Shanti Priya (Padukone). Tragically, Om witnesses Shanti’s murder by her lover, producer Mukesh Mehra (Arjun Rampal), and dies attempting to save her.</p></li>
+                        <li><p>In his next life, Om is reborn as a successful Bollywood star, Om Kapoor, with faint memories of his past. As these memories resurface, he embarks on a mission to avenge Shanti’s death and bring her killer to justice. The film is filled with nostalgic references to Bollywood’s golden era, a captivating soundtrack, and extravagant dance numbers. Om Shanti Om is a highly entertaining mix of romance, suspense, and comedy, celebrating the magic and drama of Bollywood itself. Its themes of love, revenge, and destiny make it a memorable, colorful, and uniquely satisfying cinematic experience.</p></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <h4>Social Handels of Shah rukh khan</h4>
+            <ul>
+                <li><a href="https://www.instagram.com/iamsrk/?hl=en">Instagram</a></li>
+                <li><a href="https://x.com/iamsrk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Twitter</a></li>
+                <li><a href="https://www.facebook.com/IamSRK/">Facebook</a></li>
+            </ul>
+            <h4>Made by Fahad</h4>
+        </div>
+    </div>
+</body>
+</html>
